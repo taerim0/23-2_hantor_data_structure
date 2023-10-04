@@ -84,6 +84,6 @@ int isEmpty()
 
 int back()
 {
-	/* 순차 자료 구조 stack - isEmpty
+	/* 순차 자료 구조 stack - back
 	   스택 최상단 정수 및 리턴, 없다면 -1 리턴 */
 }
