@@ -23,7 +23,7 @@
 
 #include <stdio.h>
 
-int stack[1000000]; // index 0부터 999999까지 할당된 stack 배열
+int stack[1000000]; // index 0부터 999999까지 할당된 stack 배열, 인덱스 범위에 주의하세요.
 int pointer; // 0으로 초기화된 포인터 변수
 
 void push(int value);
