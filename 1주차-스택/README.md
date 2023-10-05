@@ -102,3 +102,15 @@ int back()
 }
 ```
 
+### ASSIGNMENT 2
+
+[백준 10773번 문제](https://www.acmicpc.net/problem/10773). 단순한 스택 응용 문제입니다.
+
+### ASSIGNMENT 3
+
+[백준 4949번 문제](https://www.acmicpc.net/problem/4949). 문자열을 사용해 스택을 관리하는 문제입니다!
+
+### ASSIGNMENT 4
+
+[백준 12789번 문제](https://www.acmicpc.net/problem/12789). 마지제
+
