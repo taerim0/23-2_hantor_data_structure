@@ -112,5 +112,5 @@ int back()
 
 ### ASSIGNMENT 4
 
-[백준 12789번 문제](https://www.acmicpc.net/problem/12789). 마지제
+[백준 12789번 문제](https://www.acmicpc.net/problem/12789). 마지막 문제
 
