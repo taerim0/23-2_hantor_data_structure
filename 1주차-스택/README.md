@@ -109,6 +109,11 @@ int back()
 ### ASSIGNMENT 3
 
 [백준 4949번 문제](https://www.acmicpc.net/problem/4949). 문자열을 사용해 스택을 관리하는 문제입니다!
+> 문자열을 입력 받을 때, 아래와 같이 입력 받아주세요 (스페이스바까지 입력 및 입력 버퍼 제거)
+```c
+scanf("%[^\n]s", {변수명});
+getchar();
+```
 
 ### ASSIGNMENT 4
 
