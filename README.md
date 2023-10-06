@@ -7,10 +7,10 @@
 [1주차 10.6](https://github.com/taerim0/23-2_hantor_data_structure/tree/main/1%EC%A3%BC%EC%B0%A8-%EC%8A%A4%ED%83%9D)
 - OT, 순차리스트, 스택
 
-2주차 10.13
+[2주차 10.13](https://github.com/taerim0/23-2_hantor_data_structure/tree/main/2%EC%A3%BC%EC%B0%A8-%ED%81%90)
 - 단일연결리스트, 큐
 
-3주차 11.3
+[3주차 11.3](https://github.com/taerim0/23-2_hantor_data_structure/tree/main/3%EC%A3%BC%EC%B0%A8-%EB%8D%B1)
 - 이중연결리스트, 덱
 
 4주차 11.10
