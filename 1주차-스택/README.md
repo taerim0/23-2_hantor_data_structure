@@ -124,5 +124,5 @@ getchar();
 
 ### ASSIGNMENT 4
 
-[백준 12789번 문제](https://www.acmicpc.net/problem/12789). 마지막 문제
+[백준 12789번 문제](https://www.acmicpc.net/problem/12789). 마지막 문제 (정답은 10.13에 올리겠습니당)
 
