@@ -134,10 +134,11 @@ int back()
 
 ### ASSIGNMENT 3
 
-[백준 11866번 문제](https://www.acmicpc.net/problem/11866). assignment 2와 비슷한 큐 응용 문제입니다. (정답은 10. 20.에 올라와요오오오)
+[백준 11866번 문제](https://www.acmicpc.net/problem/11866). assignment 2와 비슷한 큐 응용 문제입니다.
 
 -------------------------
 
 ### ASSIGNMENT 4
 
-[백준 12789번 문제](https://www.acmicpc.net/problem/12789). 이전에 순차 리스트를 사용해 스택을을 구현했다면, 연결 리스트로 구현하는 스택도 다뤄봅시다.
+[백준 12789번 문제](https://www.acmicpc.net/problem/12789). 이전에 순차 리스트를 사용해 스택을을 구현했다면, 연결 리스트로 구현하는 스택도 다뤄봅시다. (정답은 10. 20.에 올라와요오오오)
+
