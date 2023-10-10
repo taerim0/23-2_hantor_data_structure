@@ -134,7 +134,7 @@ int back()
 
 ### ASSIGNMENT 3
 
-[백준 11866번 문제](https://www.acmicpc.net/problem/11866). assignment 2와 비슷한 큐 응용 문제입니다.
+[백준 11866번 문제](https://www.acmicpc.net/problem/11866). assignment 2와 비슷한 큐 응용 문제입니다. (정답은 10. 20.에 올라와요오오오)
 
 -------------------------
 
