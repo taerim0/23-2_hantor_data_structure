@@ -100,7 +100,8 @@ void push(int value)
 int pop()
 {
     /* 연결 자료 구조 queue - pop
-       큐 첫 번째 노드 제거 및 데이터 리턴, 없다면 -1 리턴 */
+       큐 첫 번째 노드 제거 및 데이터 리턴, 없다면 -1 리턴
+       free를 사용해 동적 할당을 해제해 주세요.*/
 
     if (!q.size)
         return -1;
