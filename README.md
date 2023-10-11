@@ -10,16 +10,16 @@
 [2주차 10.13](https://github.com/taerim0/23-2_hantor_data_structure/tree/main/2%EC%A3%BC%EC%B0%A8-%ED%81%90)
 - 단일연결리스트, 큐
 
-[3주차 11.3](https://github.com/taerim0/23-2_hantor_data_structure/tree/main/3%EC%A3%BC%EC%B0%A8-%EB%8D%B1)
+[3주차 11.10](https://github.com/taerim0/23-2_hantor_data_structure/tree/main/3%EC%A3%BC%EC%B0%A8-%EB%8D%B1)
 - 이중연결리스트, 덱
 
-4주차 11.10
+4주차 11.17
 - qsort, dfs
 
-5주차 11.17
+5주차 11.24
 - bfs, 힙
 
-6주차 11.21
+6주차 12.1
 - 최소신장트리, 다익스트라
 
 강의 내용은 확정이 아닌 참고용이며, 커리큘럼 변동 또는 진도에 따라 7주차 수업을 진행할 수도 있습니다!
