@@ -33,7 +33,7 @@ int main()
 {
     int size;
     int val;
-    int order;
+    int isEnd = 0;
     char ordering[10];
 
     printf("큐의 사이즈 입력 (최대 사이즈 = %d): ", MAXSIZE); // 배열로 구현한 stack 때문에 최대 사이즈 필요
@@ -53,12 +53,12 @@ int main()
         queue_push(val);
     }
 
-    printf("명령 횟수 입력: ");
-    scanf("%d", &order);
-
-    while (order--)
+    while (1)
     {
-        printf("명령 입력 (push, pop, reverse): ");
+        if (isEnd)
+            break;
+
+        printf("명령 입력 (push, pop, reverse / break로 명령 종료): ");
         scanf("%s", ordering);
 
         switch (ordering[1])
@@ -80,6 +80,9 @@ int main()
             queue_reverse(q.front, q.rear);
             queue_print(q);
             printf("\n");
+            break;
+        case 'r':
+            isEnd++;
             break;
         default:
             break;
