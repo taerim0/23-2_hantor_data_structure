@@ -1,3 +1,5 @@
+// 23-2 한터 자료구조 스터디 : 스택을 활용한 큐 reverse
+
 #include <stdio.h>
 #include <stdlib.h>
 #define MAXSIZE 999
