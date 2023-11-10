@@ -48,7 +48,7 @@ int main()
 
     while (N--)
     {
-        scanf("%s", order);
+        scanf("%d", order);
         switch (order)
         {
         case 1:
