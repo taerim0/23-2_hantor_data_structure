@@ -13,7 +13,7 @@
 [3주차 11.10](https://github.com/taerim0/23-2_hantor_data_structure/tree/main/3%EC%A3%BC%EC%B0%A8-%EB%8D%B1)
 - 이중연결리스트, 덱
 
-4주차 11.17
+[4주차 11.17](https://github.com/taerim0/23-2_hantor_data_structure/tree/main/4%EC%A3%BC%EC%B0%A8-%ED%8A%B8%EB%A6%AC%2C%20%EC%A0%95%EB%A0%AC)
 - 트리, 정렬알고리즘
 
 5주차 11.24
