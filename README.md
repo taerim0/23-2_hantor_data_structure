@@ -16,11 +16,9 @@
 [4주차 11.17](https://github.com/taerim0/23-2_hantor_data_structure/tree/main/4%EC%A3%BC%EC%B0%A8-%ED%8A%B8%EB%A6%AC%2C%20%EC%A0%95%EB%A0%AC)
 - 트리, 정렬알고리즘
 
-5주차 11.24
-- 그래프 탐색 알고리즘
+[5주차 11.24](https://github.com/taerim0/23-2_hantor_data_structure/tree/main/5%EC%A3%BC%EC%B0%A8-%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+- 그래프 탐색 알고리즘, 최소 경로
 
-6주차 12.1
-- 최소신장트리, 다익스트라
 
 
 https://www.acmicpc.net/group/19093
